@@ -5,4 +5,5 @@ channels:
 - brian-team
 dependencies:
 - brian2=2.0.1
+- python=2.7.15
 
