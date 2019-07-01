@@ -1,0 +1,8 @@
+name: root
+channels:
+- conda-forge
+- defaults
+- brian-team
+dependencies:
+- brian2=2.0.1
+
